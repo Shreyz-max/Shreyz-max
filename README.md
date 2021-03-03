@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="mailto:gshreya717@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="www.linkedin.com/in/shreyz-max"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/shreyz-max/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   </a>
 </p>
 
@@ -45,8 +45,3 @@
 
 <hr/>
 <br/>
-
-<p align="right">
-<img src="https://komarev.com/ghpvc/?username=brunotacca&style=plastic&label=Views"><img>
-<img src="https://badges.pufler.dev/visits/brunotacca/brunotacca?color=black&logo=github" />
-</p>
