@@ -2,7 +2,7 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:Student: &nbsp;Final Year BSc Computer Science student. \
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Final Year BSc Computer Science student. \
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for innovation and a knack for making code run.\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate about technology.\
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently interning at Ineuron.\
