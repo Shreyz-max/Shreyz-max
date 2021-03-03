@@ -21,7 +21,7 @@
   <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
   <br/>
   <p align="center">
-  <img src="images/skills/python.gif" width="100"><img src="images/skills/tensorflow.gif" width="100"><img src="images/skills/vscode.gif" width="100"><img src="images/skills/keras.gif" width="100"><img src="images/skills/github.gif" width="100"><img src="images/skills/anaconda.gif" width="100">
+  <img src="images/skills/python.gif" width="100"><img src="images/skills/tensorflow.gif" width="100"><img src="images/skills/vscode.gif" width="100"><img src="images/skills/keras.gif" width="100"><img src="images/skills/github.gif" width="100"><img src="images/skills/anaconda.gif" width="100"><img src="images/sklearn.gif" width="100"><img src="images/opencv.gif" width="100">
   </p>
 
 </details>
@@ -29,11 +29,11 @@
 <details>
   <summary><b>:brain: &nbsp;Learning</b></summary>
   <br/>
-![AWS](https://img.shields.io/badge/AMAZON%20AWS-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white) &nbsp;
-![Blockchain](https://img.shields.io/badge/BLOCKCHAIN-121D33.svg?&style=flat&logo=blockchain-dot-com&logoColor=white) &nbsp;
-![Pytorch](https://img.shields.io/badge/-pytorch-black?logo=pytorch) &nbsp;
-![MXNet](https://img.shields.io/badge/-mxnet-yellow) &nbsp;
 
+ <p align="center">
+  <img src="images/pytorch.gif" width="100"><img src="images/mxnet.gif" width="100"><img src="images/aws.gif" width="100">
+  </p>
+  
 </details>
 
 <details>
