@@ -1,4 +1,4 @@
-<img src="images/banner/banner.gif"></img>
+<img src="images/bannerfinal.gif"></img>
 
 ### :space_invader: &nbsp;About Me
 
