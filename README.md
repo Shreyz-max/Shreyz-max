@@ -5,7 +5,8 @@
 &nbsp;&nbsp;&nbsp;:technologist: &nbsp;Final Year BSc Computer Science student. \
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for innovation and a knack for making code run.\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate about technology.\
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;AI Researcher at Latitude Research.\
+&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;AI Research Engineer at Latitude Research.\
+&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Research Assistant at E4E.\
 &nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Special interest towards deep learning.\
 &nbsp;&nbsp;&nbsp;:brain: &nbsp; Currently trying to understand GAN .
 
